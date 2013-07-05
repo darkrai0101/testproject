@@ -1,6 +1,5 @@
 ﻿
 <?php
-echo "abc";
 require_once('sql.php');
 include_once('server_api/login.php');
 	
